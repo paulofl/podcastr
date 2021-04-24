@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" src=".github/logo.svg" width="5%" alt="Podcastr">
+<img align="right" src=".github/logo.svg" width="50%" alt="Podcastr">
 
 ## Tópicos 
 
