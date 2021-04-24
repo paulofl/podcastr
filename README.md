@@ -23,7 +23,8 @@
 
 ## Sobre o Podcastr
 
-O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React da RocketSeat. Nele podemos escutar nossos podcasts preferidos e acompanhar a postagem de novos. O projeto foi construído ao longo de 5 dias com tecnologias e conceitos mais recentes do desenvolvimento web, usando NextJS e React e fazendo o fetch de uma API fake para trazer novos dados diariamente.
+O Podcastr é uma aplicação desenvolvida durante a Next Level Week #5 de React da RocketSeat.
+Nele é possível ouvir podcasts e acompanhar seus lançamentos.
 
 <br>
 
